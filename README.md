@@ -1,4 +1,4 @@
-# Stagger Animado vs. Retraso en React Native
+# Stagger vs Delay en React Native
 
 Este proyecto demuestra las diferencias y casos de uso de `Animated.stagger` y `Animated.delay` en React Native. Incluye ejemplos de cada tipo de animación y cómo pueden coexistir en la misma pantalla, activadas por botones separados.
 
